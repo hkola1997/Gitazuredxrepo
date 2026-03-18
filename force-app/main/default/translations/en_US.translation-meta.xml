@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customTabs>
+        <label><!-- Copado Overview --></label>
+        <name>cmcSf__Copado_Overview</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Commit Data --></label>
+        <name>cmcSf__DX_Commit_Data</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Commit Page --></label>
+        <name>cmcSf__DX_User_Story_Commit_Page</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Pipeline Builder --></label>
+        <name>cmcSf__Pipeline_Builder</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Pipeline Initializer --></label>
+        <name>cmcSf__Pipeline_Initializer</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- SFP Pipeline Manager --></label>
+        <name>cmcSf__Pipeline_Manager_SFDX</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Promotion Rollback --></label>
+        <name>cmcSf__Promotion_Rollback</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Quick Start --></label>
+        <name>cmcSf__Quick_Start</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Migrate Legacy Setup --></label>
+        <name>copadoQuality__Migrate</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Account Summary --></label>
+        <name>copado__Account_Summary</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Commit Data --></label>
+        <name>copado__Commit_Data</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Compliance Getting Started --></label>
+        <name>copado__Compliance_Getting_Started</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Copado DX Panel --></label>
+        <name>copado__Copado_DX_Panel</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Classic Copado License Manager --></label>
+        <name>copado__Copado_License_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Copado Actions API --></label>
+        <name>copado__Copado_Webhooks</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Getting Started --></label>
+        <name>copado__Getting_Started</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Copado License Manager --></label>
+        <name>copado__License_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Notifications Center --></label>
+        <name>copado__Notifications_Center</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Permission Set Explorer --></label>
+        <name>copado__Permission_Set_Explorer</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Persona Management --></label>
+        <name>copado__Persona_Management</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- MFP Pipeline Manager --></label>
+        <name>copado__Pipeline_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Selenium Getting Started --></label>
+        <name>copado__SeleniumGettingStarted</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Copado Extensions --></label>
+        <name>copado__StandardRecordStatus</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Commit Changes --></label>
+        <name>copado__User_Story_Commit</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Work Manager --></label>
+        <name>copado__Work_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Get Started with Agentforce --></label>
+        <name>devedapp__Get_Started_Agentforce</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Get Started with Data Cloud --></label>
+        <name>devedapp__Get_Started_Data_Cloud</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Get Started with MuleSoft --></label>
+        <name>devedapp__Get_Started_MuleSoft</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Get Started with Salesforce DX --></label>
+        <name>devedapp__Get_Started_SFDX</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Welcome --></label>
+        <name>devedapp__Welcome</name>
+    </customTabs>
+</Translations>
