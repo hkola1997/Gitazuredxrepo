@@ -1,0 +1,17 @@
+<template>
+    <lightning-card title="Greeting App">
+        <div class="slds-p-around_medium">
+            
+            <lightning-input 
+                label="Enter your name" 
+                value={name} 
+                onchange={handleChange}>
+            </lightning-input>
+
+            <p class="slds-m-top_medium">
+                Hello, {name} 👋
+            </p>
+
+        </div>
+    </lightning-card>
+</template>
