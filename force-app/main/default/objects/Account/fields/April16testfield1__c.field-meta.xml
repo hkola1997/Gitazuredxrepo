@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>testcustomfield1__c</fullName>
+    <fullName>April16testfield1__c</fullName>
     <externalId>false</externalId>
-    <label>testcustomfield1</label>
-    <length>77</length>
+    <label>April16testfield1</label>
+    <length>88</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
