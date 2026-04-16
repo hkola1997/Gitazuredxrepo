@@ -13,6 +13,6 @@ public class UtilityClassTest {
 
     @isTest
     static void testFormat_Null() {
-        System.assertEquals(null, UtilityClass.formatName(null));
+        System.assertEquals(null, UtilityClass.formatName(null));// chandu tested
     }
 }
